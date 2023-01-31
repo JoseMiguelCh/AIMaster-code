@@ -1,0 +1,115 @@
+Amplitud - Costo uniforme
+########
+#    T·#
+# ####·#
+#   P#·#   
+# ##···#      
+#      #
+########
+Total length of solution: 8
+Total cost of solution: 7.0
+max fringe size: 4
+visited nodes: 19
+iterations: 19
+
+Amplitud - Costo no uniforme
+########
+#    T·#
+# ####·#
+#   P#·#   
+# ##···#      
+#      #
+########
+Total length of solution: 8
+Total cost of solution: 11.0
+max fringe size: 4
+visited nodes: 19
+iterations: 19
+
+Profundidad - Costo uniforme
+########
+#    T·#
+# ####·#
+#   P#·#   
+# ##···#      
+#      #
+########
+Total length of solution: 8
+Total cost of solution: 7.0
+max fringe size: 6
+visited nodes: 20
+iterations: 20
+
+Profundidad - Costo no uniforme
+########
+#    T·#
+# ####·#
+#   P#·#   
+# ##···#      
+#      #
+########
+Total length of solution: 8
+Total cost of solution: 11.0
+max fringe size: 6
+visited nodes: 20
+iterations: 20
+
+----------------------------------------------
+A* - h = manhattan
+A* - Costo uniforme
+########
+#    T·#
+# ####·#
+#   P#·#   
+# ##···#      
+#      #
+########
+Total length of solution: 8
+Total cost of solution: 7.0
+max fringe size: 5
+visited nodes: 11
+iterations: 11
+
+A* - Costo no uniforme
+########
+#····T #
+#·#### #
+#···P# #   
+# ##   #      
+#      #
+########
+Total length of solution: 10
+Total cost of solution: 9.0
+max fringe size: 5
+visited nodes: 19
+iterations: 19
+
+----------------------------------------------
+A* - h = euclidean
+A* - Costo uniforme
+########
+#    T·#
+# ####·#
+#   P#·#   
+# ##···#      
+#      #
+########
+Total length of solution: 8
+Total cost of solution: 7.0
+max fringe size: 5
+visited nodes: 11
+iterations: 11
+
+A* - Costo no uniforme
+########
+#····T #
+#·#### #
+#···P# #   
+# ##   #      
+#      #
+########
+Total length of solution: 10
+Total cost of solution: 9.0
+max fringe size: 5
+visited nodes: 19
+iterations: 19
